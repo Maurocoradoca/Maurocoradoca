@@ -1,6 +1,6 @@
 # ¡Hola! Soy Mauricio Corado 👋
 
-Estudiante de **Ingeniería en Ciencias de Datos y TI** en la **Universidad del Valle de Guatemala (UVG)**. Me gusta construir software útil, desde aplicaciones web hasta aplicaciones móviles, y seguir aprendiendo en el proceso.
+Estudiante de **Ingeniería en Ciencias de la computación y TI** en la **Universidad del Valle de Guatemala (UVG)**. Me gusta construir software útil, desde aplicaciones web hasta aplicaciones móviles, y seguir aprendiendo en el proceso.
 
 ## 🛠️ Tecnologías
 
