@@ -4,7 +4,9 @@ Estudiante de **Ingeniería en Ciencias de la computación y TI** en la **Univer
 
 ## 🛠️ Tecnologías
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,ts,kotlin,react,fastapi,sqlite,tailwind,vite,git,github" alt="Tecnologías" />
+</p>
 
 ## 🚀 Proyecto destacado
 
@@ -13,6 +15,25 @@ Estudiante de **Ingeniería en Ciencias de la computación y TI** en la **Univer
 Gestor interactivo de horarios y vida universitaria. Combina un calendario con arrastrar y soltar, temporizador de enfoque (Pomodoro), asignación automática de tareas según el tiempo libre y seguimiento de metas. Funciona de forma local para proteger la privacidad de tus datos.
 
 Hecho con **React + TypeScript + Tailwind CSS** en el frontend y **Python (FastAPI) + SQLite** en el backend.
+
+## 📊 Estadísticas de GitHub
+
+<p>
+  <img height="180" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Maurocoradoca&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurocoradoca&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com/?user=Maurocoradoca&theme=tokyonight&hide_border=true" />
+</p>
+
+## 👻 Mis contribuciones
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maurocoradoca/Maurocoradoca/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maurocoradoca/Maurocoradoca/output/pacman-contribution-graph.svg">
+<img alt="Gráfica de contribuciones con Pac-Man" src="https://raw.githubusercontent.com/Maurocoradoca/Maurocoradoca/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 📫 Contacto
 
